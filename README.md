@@ -7,7 +7,7 @@ This repository contains code and data for the Finance-RAG-Challenge, a project 
 - **final/**: Contains result files intended for final submission.
 - **eval/**: Holds evaluation datasets for validation purposes.
 - **data/**: Stores data related to each task, including corpus and query files. Each task includes separate data for retrieval and rerank stages.
-- **notebooks/**: Jupyter notebooks used to generate results for each task.
+- **.ipynb**: Jupyter notebooks used to generate results for each task.
 
 ## Workflow
 
